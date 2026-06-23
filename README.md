@@ -8,3 +8,5 @@ The Nevergrove color scheme for Ghostty. All variants.
 * [Nevergrove website](https://icarojam.github.io/nevergrove/)
 
 * [Nevergrove on Github](https://github.com/IcaroJam/nevergrove)<br/>
+
+<img width="260" height="83" alt="Maple1" src="https://github.com/user-attachments/assets/97c80c6c-3908-4478-b42b-4ddab0df58e3" />
