@@ -1,7 +1,7 @@
 # Nevergrove Ghostty
 The Nevergrove color scheme for Ghostty. All variants.
 
-<img width="379" height="103" alt="Nevergrove" src="https://github.com/user-attachments/assets/7def25d0-28fe-4a3f-939e-bfd3d687853a" />
+<img width="379" height="103" alt="Nevergrove" src="https://github.com/user-attachments/assets/80a00527-437f-4f91-9775-e5a1f835c904" />
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
