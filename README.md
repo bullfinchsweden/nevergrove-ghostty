@@ -1,5 +1,5 @@
 # Nevergrove Ghostty
-The Nevergrove color scheme for Ghostty. All variations.
+The Nevergrove color scheme for Ghostty. All variants.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
