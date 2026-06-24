@@ -11,4 +11,4 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Nevergrove Aspen*
 
-<img src="Images/EldritchAbyssColors1.png" width="597" height="144" />
+<img src="Images/Aspen.png" width="597" height="144" />
