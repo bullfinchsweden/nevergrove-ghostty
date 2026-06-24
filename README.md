@@ -19,4 +19,4 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Nevergrove Eucalyptus*
 
-<img src="Images/Aspen.png" width="597" height="144" /><br/>
+<img src="Images/Eucalyptus.png" width="597" height="144" /><br/>
