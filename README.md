@@ -22,3 +22,5 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 <img src="Images/Eucalyptus.png" width="597" height="144" /><br/>
 
 *Nevergrove Jacaranda*
+
+<img src="Images/Jacaranda.png" width="597" height="144" />
