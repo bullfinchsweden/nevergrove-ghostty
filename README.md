@@ -9,6 +9,10 @@ The Nevergrove color scheme for Ghostty. All variants.
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
+*Nevergrove Maple*
+
+<img src="Images/Maple.png" width="597" height="144" />
+
 *Nevergrove Aspen*
 
 <img src="Images/Aspen.png" width="597" height="144" />
