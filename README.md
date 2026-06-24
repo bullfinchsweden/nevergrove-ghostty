@@ -5,6 +5,6 @@ The Nevergrove color scheme for Ghostty. All variants.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Nevergrove](https://icarojam.github.io/nevergrove/)<br/>
+* [Nevergrove color palette](https://icarojam.github.io/nevergrove/)<br/>
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
