@@ -8,3 +8,7 @@ The Nevergrove color scheme for Ghostty. All variants.
 * [Nevergrove color palette](https://icarojam.github.io/nevergrove/)<br/>
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
+
+*Nevergrove Aspen*
+
+<img src="Images/Aspen.png" width="597" height="144" />
